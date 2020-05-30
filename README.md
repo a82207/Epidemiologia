@@ -20,6 +20,22 @@ Obteram-se figuras que descrevem os mapas relativos:
 - ao número de casos confirmados nos Estados Unidos:
 ![confirmados_usa](/COVID_19/figuras/confirmados_usa.png)
 
+Assim como figuras alusivas a dados estatíscos de casos de COVID-19:
+
+- Países com maior número de casos confirmados:
+![confirmados_mundo](/COVID_19/figuras/dados1_mundo.png)
+
+- Número de casos confirmados por distrito em Portugal:
+![confirmados_pt](/COVID_19/figuras/dados1_pt.png)
+
+- Número de casos confirmados em Espanha:
+![confirmados_sp](/COVID_19/figuras/dados1_esp.png)
+
+- Estados com maior número de casos confirmados nos US:
+![confirmados_us](/COVID_19/figuras/dados2_us.png)
+
+- Número de casos confirmados vs Número de mortes:
+![confirmados_mundo](/COVID_19/figuras/dados1_us.png)
 
 #### Dados retirados das seguintes fontes:
 
