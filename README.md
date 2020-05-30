@@ -73,5 +73,4 @@ Assim como figuras alusivas a dados estatíscos de casos de COVID-19:
 
 ##### Autores:
 
-- [José Lopes](https://github.com/a82207)
-Mestrado em Informática Médica (Universidade do Minho)
+- [José Lopes](https://github.com/a82207), aluno no Mestrado em Informática Médica (Universidade do Minho)
