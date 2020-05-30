@@ -32,6 +32,8 @@ No âmbito da explração dos dados anteriores, relativos a casos de COVID-19, i
 - Análise estatística nos Estados Unidos - casos confirmados
    - [Situação US](/COVID_19/dados_estatísticos/Situação_US.ipynb)
 
+---
+
 ### Resultados
 Obteram-se figuras que descrevem os mapas relativos:
 
@@ -63,6 +65,8 @@ Assim como figuras alusivas a dados estatíscos de casos de COVID-19:
 
 - Número de casos confirmados vs Número de mortes:
 ![confirmados_mundo](/COVID_19/figuras/dados1_us.png)
+
+---
 
 ##### Autores:
 
