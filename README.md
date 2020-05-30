@@ -1,5 +1,6 @@
 # ***COVID-19*** - Mapeamento de dados e Análise Estatística
 
+Com vista a uma melhor compreensão do impacto global da COVID-19, foi desenvolvido um conjunto de notebooks onde se analisa as principais características disponibilizadas nos datasets, procedendo-se à criação de mapas e a representações gráficas com bases nesses parâmentros. Foi ainda estudado com maior incidência este impacto no nosso país - Portugal - bem como na Espanha, de forma a permitir uma comparação com o país vizinho, e nos Estados Unidos, uma vez que é, até ao dia 30-05-2020, o país mais afetado pela COVID-19.
 
 ### Dados
 O projeto realizado teve essencialmente em conta as seguintes fontes de dados:
@@ -29,7 +30,7 @@ No âmbito da explração dos dados anteriores, relativos a casos de COVID-19, i
 - Análise estatística em Espanha - casos confirmados/recuperados/hospitalizados, casos nos cuidados intensivos, número de mortes e número de testes realizados
    - [Situação ESP](/COVID_19/dados_estatísticos/Situacao_SP.ipynb)
 
-- Análise estatística nos Estados Unidos - casos confirmados
+- Análise estatística nos Estados Unidos - casos confirmados/recuperados/ativos, casos Hospitalizados, casos nos cuidados intensivos, casos utilizando ventilador, testes negativos/positivos e número de mortes
    - [Situação US](/COVID_19/dados_estatísticos/Situação_US.ipynb)
 
 ---
