@@ -16,19 +16,19 @@ O projeto realizado teve essencialmente em conta as seguintes fontes de dados:
 No âmbito da explração dos dados anteriores, relativos a casos de COVID-19, implementou-se um conjunto de notebooks:
 
 - Mapeamento dos dados a nível mundial, a nível nacional, em Espanha e nos Estados Unidos da América
-  -[Mapas](/COVID_19/dados_estatísticos/Mapas.ipynb)
+    -[Mapas](/COVID_19/dados_estatísticos/Mapas.ipynb)
 
 - Análise estatística a nível mundial - casos confirmados/ativos/recuperados e número de mortes
-  -[Situação_Mundo](/COVID_19/dados_estatísticos/Situacao_Mundo.ipynb)
+    -[Situação_Mundo](/COVID_19/dados_estatísticos/Situacao_Mundo.ipynb)
 
 - Análise estatística a nível nacional - casos, influência do sexo/idade e sintomas desenvolvidos
-  -[Situação PT](/COVID_19/dados_estatísticos/Situação_PT.ipynb)
+    -[Situação PT](/COVID_19/dados_estatísticos/Situação_PT.ipynb)
 
 - Análise estatística em Espanha - casos confirmados/recuperados/hospitalizados, casos nos cuidados intensivos, número de mortes e número de testes realizados
-  -[Situação ESP](/COVID_19/dados_estatísticos/Situacao_SP.ipynb)
+   -[Situação ESP](/COVID_19/dados_estatísticos/Situacao_SP.ipynb)
 
 - Análise estatística nos Estados Unidos - casos confirmados
-  -[Situação US](/COVID_19/dados_estatísticos/Situação_US.ipynb)
+   -[Situação US](/COVID_19/dados_estatísticos/Situação_US.ipynb)
 
 ### Resultados
 Obteram-se figuras que descrevem os mapas relativos:
