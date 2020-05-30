@@ -3,8 +3,10 @@
 
 
 
+
+
 ### Resultados
-Obteram-se figuras relativamente:
+Obteram-se figuras que descrevem os mapas relativos:
 
 - ao número de casos confirmados no mundo:
 ![confirmados_mundo](/COVID_19/figuras/confirmados_mundo.png)
@@ -15,9 +17,16 @@ Obteram-se figuras relativamente:
 - ao número de casos confirmados em Espanha:
 ![confirmados_espanha](/COVID_19/figuras/confirmados_esp.png)
 
+- ao número de casos confirmados nos Estados Unidos:
+![confirmados_usa](/COVID_19/figuras/confirmados_usa.png)
 
 
 #### Dados retirados das seguintes fontes:
+
+| Fontes  |  Descrição  |
+| ------------------- | ------------------- |
+|  [GitHub jgrocha](https://github.com/jgrocha/covid-pt) |  Dados relativos à situação epidemiológica de Portugal |
+|  Célula de conteúdo |  Célula de conteúdo |
 
 - [GitHub jgrocha](https://github.com/jgrocha/covid-pt)
   - Dados relativos à situação epidemiológica de Portugal
