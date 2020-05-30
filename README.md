@@ -4,10 +4,16 @@
 
 
 ### Resultados
-Obteram-se figuras relativas ao número de casos confirmados no mundo:
+Obteram-se figuras relativamente:
 
+- ao número de casos confirmados no mundo:
 ![confirmados_mundo](/COVID_19/figuras/confirmados_mundo.png)
 
+- ao número de casos confirmados em Portugal (por distrito):
+![confirmados_portugal](/COVID_19/figuras/confirmados_distrito.png)
+
+- ao número de casos confirmados em Espanha:
+![confirmados_espanha](/COVID_19/figuras/confirmados_esp.png)
 
 
 
