@@ -1,6 +1,6 @@
 # ***COVID-19*** - Mapeamento de dados e Análise Estatística
 
-    Com vista a uma melhor compreensão do impacto global da COVID-19, foi desenvolvido um conjunto de notebooks onde se analisa as principais características disponibilizadas nos datasets, procedendo-se à criação de mapas e a representações gráficas com bases nesses parâmentros. Foi ainda estudado com maior incidência este impacto no nosso país - Portugal - bem como na Espanha, de forma a permitir uma comparação com o país vizinho, e nos Estados Unidos, uma vez que é, até ao dia 30-05-2020, o país mais afetado pela COVID-19.
+   Com vista a uma melhor compreensão do impacto global da COVID-19, foi desenvolvido um conjunto de notebooks onde se analisa as principais características disponibilizadas nos datasets, procedendo-se à criação de mapas e a representações gráficas com bases nesses parâmentros. Foi ainda estudado com maior incidência este impacto no nosso país - Portugal - bem como na Espanha, de forma a permitir uma comparação com o país vizinho, e nos Estados Unidos, uma vez que é, até ao dia 30-05-2020, o país mais afetado pela COVID-19.
 
 ---
 
