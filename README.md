@@ -12,6 +12,8 @@ O projeto realizado teve essencialmente em conta as seguintes fontes de dados:
 | [CSSE - Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)  | Dados em formato csv referentes à situação epidemiológica mundial e dos Estados Unidos |
 | [The New York Times - COVID-19_data](https://github.com/nytimes/covid-19-data)  | Dados em formato csv referentes aos Counties e Estados dos US  |
 
+---
+
 ### Notebooks
 No âmbito da explração dos dados anteriores, relativos a casos de COVID-19, implementou-se um conjunto de notebooks:
 
