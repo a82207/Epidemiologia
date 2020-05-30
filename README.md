@@ -38,13 +38,22 @@ No âmbito da exploração dos dados anteriores, relativos a casos de COVID-19, 
 ---
 
 ### Resultados
-Foram otidas figuras que descrevem os mapas relativos:
+Foram obtidas figuras que descrevem os mapas relativos:
 
 - ao número de casos confirmados no mundo:
 ![confirmados_mundo](/COVID_19/figuras/confirmados_mundo.png)
 
 - ao número de casos confirmados em Portugal (por distrito):
 ![confirmados_portugal](/COVID_19/figuras/confirmados_distrito.png)
+
+- à previsão do número de casos em Portugal:
+![confirmados_portugal](/COVID_19/figuras/portugal_fit_model.png)
+
+De forma a se proceder a esta previsão dos números de casos, foi utilizado o [modelo de previsão](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/time_series/ts_utils.py), da autoria de [mdipietro09](https://github.com/mdipietro09)
+Assim, com a utilização da script foi possível se definir os parâmetros a utilizar em cada função - linear, exponencial ou logística - levando a que, consequentemente, se encontre o modelo que melhor se relacionava e ajusta ao número de casos confirmados em Portugal. 
+
+- principais sintomas sentidos por casos confirmados em Portugal:
+![confirmados_portugal](/COVID_19/figuras/portugal_sintomas.png)
 
 - ao número de casos confirmados em Espanha:
 ![confirmados_espanha](/COVID_19/figuras/confirmados_esp.png)
@@ -70,7 +79,3 @@ Assim como figuras alusivas a dados estatíscos de casos de COVID-19:
 ![confirmados_mundo](/COVID_19/figuras/dados1_us.png)
 
 ---
-
-##### Autores:
-
-- [José Lopes](https://github.com/a82207), aluno no Mestrado em Informática Médica (Universidade do Minho)
