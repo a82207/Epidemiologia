@@ -1,11 +1,11 @@
 # ***COVID-19*** - Mapeamento de dados e Análise Estatística
 
-   Com vista a uma melhor compreensão do impacto global da COVID-19, foi desenvolvido um conjunto de notebooks onde se analisa as principais características disponibilizadas nos datasets, procedendo-se à criação de mapas e a representações gráficas com bases nesses parâmentros. Foi ainda estudado com maior incidência este impacto no nosso país - Portugal - bem como na Espanha, de forma a permitir uma comparação com o país vizinho, e nos Estados Unidos, uma vez que é, até ao dia 30-05-2020, o país mais afetado pela COVID-19.
+Com vista a uma melhor compreensão do impacto global da COVID-19, foi desenvolvido um conjunto de notebooks onde se analisa as principais características disponibilizadas nos datasets utilizados, procedendo-se à criação de mapas e representações gráficas com bases nesses parâmentros. Foi ainda estudado com maior incidência este impacto no nosso país - Portugal - bem como na Espanha, de forma a permitir uma comparação com o país vizinho, e nos Estados Unidos, uma vez que é, até à data (30-05-2020), o país mais afetado pela COVID-19.
 
 ---
 
 ### Dados
-O projeto realizado teve essencialmente em conta as seguintes fontes de dados:
+Para a realização deste projeto, teve-se essencialmente em conta as seguintes fontes de dados:
 
 | Fontes  |  Descrição  |
 | ------------------- | ------------------- |
@@ -18,13 +18,13 @@ O projeto realizado teve essencialmente em conta as seguintes fontes de dados:
 ---
 
 ### Notebooks
-No âmbito da explração dos dados anteriores, relativos a casos de COVID-19, implementou-se um conjunto de notebooks:
+No âmbito da exploração dos dados anteriores, relativos a casos de COVID-19, implementou-se um conjunto de notebooks:
 
 - Mapeamento dos dados a nível mundial, a nível nacional, em Espanha e nos Estados Unidos da América
     - [Mapas](/COVID_19/dados_estatísticos/Mapas.ipynb)
 
 - Análise estatística a nível mundial - casos confirmados/ativos/recuperados e número de mortes
-    - [Situação_Mundo](/COVID_19/dados_estatísticos/Situacao_Mundo.ipynb)
+    - [Situação Mundo](/COVID_19/dados_estatísticos/Situacao_Mundo.ipynb)
 
 - Análise estatística a nível nacional - casos, influência do sexo/idade e sintomas desenvolvidos
     - [Situação PT](/COVID_19/dados_estatísticos/Situação_PT.ipynb)
@@ -32,13 +32,13 @@ No âmbito da explração dos dados anteriores, relativos a casos de COVID-19, i
 - Análise estatística em Espanha - casos confirmados/recuperados/hospitalizados, casos nos cuidados intensivos, número de mortes e número de testes realizados
    - [Situação ESP](/COVID_19/dados_estatísticos/Situacao_SP.ipynb)
 
-- Análise estatística nos Estados Unidos - casos confirmados/recuperados/ativos, casos Hospitalizados, casos nos cuidados intensivos, casos utilizando ventilador, testes negativos/positivos e número de mortes
+- Análise estatística nos Estados Unidos - casos confirmados/recuperados/ativos, casos hospitalizados, casos nos cuidados intensivos, casos utilizando ventilador, testes negativos/positivos e número de mortes
    - [Situação US](/COVID_19/dados_estatísticos/Situação_US.ipynb)
 
 ---
 
 ### Resultados
-Obteram-se figuras que descrevem os mapas relativos:
+Foram otidas figuras que descrevem os mapas relativos:
 
 - ao número de casos confirmados no mundo:
 ![confirmados_mundo](/COVID_19/figuras/confirmados_mundo.png)
@@ -74,3 +74,4 @@ Assim como figuras alusivas a dados estatíscos de casos de COVID-19:
 ##### Autores:
 
 - [José Lopes](https://github.com/a82207)
+Mestrado em Informática Médica (Universidade do Minho)
