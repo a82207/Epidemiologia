@@ -6,7 +6,7 @@
 ### Resultados
 Obteram-se figuras relativas ao número de casos confirmados no mundo:
 
-![confirmados_mundo](/COVID19/figuras/confirmados_mundo.png)
+![confirmados_mundo](/COVID_19/figuras/confirmados_mundo.png)
 
 
 
