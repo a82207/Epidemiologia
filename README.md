@@ -23,7 +23,7 @@ No âmbito da exploração dos dados anteriores, relativos a casos de COVID-19, 
 - Mapeamento dos dados a nível mundial, a nível nacional, em Espanha e nos Estados Unidos da América
     - [Mapas](/COVID_19/mapas/Mapas.ipynb)
 
-- Análise estatística a nível mundial - casos confirmados/ativos/recuperados e número de mortes
+- Análise estatística a nível mundial - casos confirmados/ativos/recuperados, número de mortes e aplicação de modelos de previsão
     - [Situação Mundo](/COVID_19/dados_estatísticos/Situacao_Mundo.ipynb)
 
 - Análise estatística a nível nacional - casos, influência do sexo/idade e sintomas desenvolvidos
