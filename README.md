@@ -49,7 +49,7 @@ Foram obtidas figuras que descrevem os mapas relativos:
 - à previsão do número de casos em Portugal, com a utilização de Modelos de Previsão:
 ![confirmados_portugal](/COVID_19/figuras/portugal_fit_model.png)
 
-De forma a se proceder a esta previsão do números de casos, foi utilizado o [modelo de previsão](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/time_series/ts_utils.py), da autoria de [mdipietro09](https://github.com/mdipietro09).
+De forma a se proceder a esta previsão do números de casos, foi utilizado o [modelo de previsão](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/time_series/ts_utils.py) da autoria de [mdipietro09](https://github.com/mdipietro09).
 Assim, com a utilização da script foi possível se definir os parâmetros a utilizar em cada função - linear, exponencial, logística, gaussiana - levando a que, consequentemente, se encontre o modelo que melhor se relacionava e ajusta ao número de casos confirmados em Portugal, permintido obter a seguinte previsão:
 ![previsao_portugal](/COVID_19/figuras/previsao_confirmados.png)
 
