@@ -10,7 +10,7 @@ Para a realização deste projeto, teve-se essencialmente em conta as seguintes 
 | Fontes  |  Descrição  |
 | ------------------- | ------------------- |
 |  [GitHub - jgrocha](https://github.com/jgrocha/covid-pt) |  Dados relativos à situação epidemiológica de Portugal |
-|  [GitHub - mdipietro09](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/time_series/example_parametric_fit.ipynb) |  Notebook de auxílio na implementação de ajuste dos parâmetros, através de diversas funções |
+|  [GitHub - mdipietro09](https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils/blob/master/time_series/example_parametric_fit.ipynb) - [Time Series Forecasting](https://medium.com/analytics-vidhya/how-to-predict-when-the-covid-19-pandemic-will-stop-in-your-country-with-python-d6fbb2425a9f) |  Auxílio na implementação de modelos de previsão |
 | [data.world - COVID-19 in Spain](https://data.world/liz-friedman/covid-19-in-spain)  | Dados em formato csv referentes à situação epidemiológica em Espanha, descrevendo os casos a nível nacional |
 | [CSSE - Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)  | Dados em formato csv referentes à situação epidemiológica mundial e dos Estados Unidos |
 | [The New York Times - COVID-19_data](https://github.com/nytimes/covid-19-data)  | Dados em formato csv referentes aos Counties e Estados dos US  |
